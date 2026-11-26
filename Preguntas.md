@@ -17,3 +17,5 @@ Responde por escrito, con tus palabras:
    
 6. Si descubres hoy un error cometido hace cinco commits, ¿qué haces para arreglarlo?
    Se puede revertir el commit (revert), creando un commit nuevo que deshace los cambios sin reescribir el historial.
+
+7. Hola soy Javier.
